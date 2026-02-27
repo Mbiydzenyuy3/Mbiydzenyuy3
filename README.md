@@ -1,20 +1,16 @@
 # 💫 About Me:
 Hi, I'm Mbiydzenyuy 👋<br>Full-Stack Engineer | Product Builder | Problem Solver through digital solutions<br>I am a passionate developer dedicated to building real-world solutions that bridge the gap between complex backend logic and seamless user experiences.
 Architectural Mindset: I utilize NestJS and Cloud Native patterns to ensure apps can scale from 1 to 100,000 users.
-
 <br><br> Featured Portfolio <br>Projects1. DevGuard<br>
 The Problem: Security and monitoring gaps in development environments that leave applications vulnerable.<br>The Solution: A specialized tool designed to enhance security and oversight during the development lifecycle.<br>Stack: TypeScript, NestJS, and Cloud Native principles.<br>Outcome: Provides developers with a proactive "guard" for their codebases, ensuring standards are met before deployment.
 Repo: https://github.com/Mbiydzenyuy3/DevGuard
-
 <br><br>2. Kith
 The Problem: The need for a modern, responsive social or community-focused platform with high-performance requirements.<br>The Solution: A full-stack application built for scalability and real-time interaction.<br>Stack: NextJS, React, and MongoDB.Outcome: Leverages Server-Side Rendering (SSR) for SEO and speed, delivering a premium UX for community building.
 Repo: https://github.com/Mbiydzenyuy3/contact-manager
 Live Demo:https://contact-manager-app-kith.vercel.app/
 
 💼 Let's Build Something GreatI am currently Open to Work and seeking roles where I can contribute to high-impact products. <br>My goal is to create products that aren't just functional, but highly usable and accessible for both clients and end-users
-
 <br><br>📫 Email: [mbiydzenyuyeileen@gmail.com]<br>🔗 LinkedIn: [https://www.linkedin.com/in/eileen-leila/]<br>🌍 Location: Remote / Relocation Friendly
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eileen-leila) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mbiydzenyuyeileen) 
