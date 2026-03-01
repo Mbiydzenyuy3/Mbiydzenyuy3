@@ -1,28 +1,124 @@
-# 💫 About Me:
-Hi, I'm Mbiydzenyuy 👋<br>Full-Stack Engineer | Product Builder | Problem Solver through digital solutions<br>I am a passionate developer dedicated to building real-world solutions that bridge the gap between complex backend logic and seamless user experiences.
-Architectural Mindset: I utilize NestJS and Cloud Native patterns to ensure apps can scale from 1 to 100,000 users.
-<br><br> Featured Portfolio <br>Projects1. DevGuard<br>
-The Problem: Security and monitoring gaps in development environments that leave applications vulnerable.<br>The Solution: A specialized tool designed to enhance security and oversight during the development lifecycle.<br>Stack: TypeScript, NestJS, and Cloud Native principles.<br>Outcome: Provides developers with a proactive "guard" for their codebases, ensuring standards are met before deployment.
-Repo: https://github.com/Mbiydzenyuy3/DevGuard
-<br><br>2. Kith
-The Problem: The need for a modern, responsive social or community-focused platform with high-performance requirements.<br>The Solution: A full-stack application built for scalability and real-time interaction.<br>Stack: NextJS, React, and MongoDB.Outcome: Leverages Server-Side Rendering (SSR) for SEO and speed, delivering a premium UX for community building.
-Repo: https://github.com/Mbiydzenyuy3/contact-manager
-Live Demo:https://contact-manager-app-kith.vercel.app/
+<h1 align="center">Hi, I'm Leila (Mbiydzenyuy) 👋</h1>
+<h3 align="center">Full-Stack Engineer · TypeScript / NestJS / React · Building scalable products for startups & remote teams</h3>
 
-💼 Let's Build Something GreatI am currently Open to Work and seeking roles where I can contribute to high-impact products. <br>My goal is to create products that aren't just functional, but highly usable and accessible for both clients and end-users
-<br><br>📫 Email: [mbiydzenyuyeileen@gmail.com]<br>🔗 LinkedIn: [https://www.linkedin.com/in/eileen-leila/]<br>🌍 Location: Remote / Relocation Friendly
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eileen-leila) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mbiydzenyuyeileen) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mbiydzenyuy3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mbiydzenyuy3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbiydzenyuy3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="mailto:mbiydzenyuyeileen@gmail.com"><img src="https://img.shields.io/badge/Email-mbiydzenyuyeileen%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/eileen-leila/"><img src="https://img.shields.io/badge/LinkedIn-eileen--leila-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="https://medium.com/@mbiydzenuyeileen"><img src="https://img.shields.io/badge/Medium-Blog-black?style=flat-square&logo=medium" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Relocation%20Friendly-brightgreen?style=flat-square" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mbiydzenyuy3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a **Full-Stack Engineer** based in Cameroon, passionate about building products that are **fast, scalable, and user-centric**.
+
+- 🏗️ I architect backends with **NestJS**, design APIs with REST & GraphQL, and ship clean frontends with **React / Next.js**
+- ☁️ Cloud-native mindset: I deploy and scale with **AWS, Docker, Kubernetes, and GitHub Actions CI/CD**
+- 🧠 I think in systems — designing apps that scale from **1 to 100,000 users** without breaking
+- 🎯 Currently seeking roles as **Full-Stack Engineer** or **Backend Engineer (Node/NestJS)** at product-focused startups
+- 🌍 Remote-ready and open to relocation
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 🛡️ DevGuard — Developer Security & Monitoring Tool
+> **Problem:** Development environments lack real-time security oversight, leaving codebases exposed before deployment.
+
+- **Solution:** Built a proactive security tool that monitors, audits, and enforces standards throughout the development lifecycle
+- **Stack:** TypeScript · NestJS · Cloud Native principles · Docker
+- **Outcome:** Catches vulnerabilities before they hit production; reduces manual security review time significantly
+- **What I learned:** Designing event-driven architectures and integrating security checks into CI pipelines
+
+🔗 [View Repository](https://github.com/Mbiydzenyuy3/DevGuard)
+
+---
+
+### 2. 🤝 Kith — Community & Contact Management Platform
+> **Problem:** Modern community platforms sacrifice either performance or user experience.
+
+- **Solution:** Full-stack application with SSR for SEO, real-time interaction, and premium UX
+- **Stack:** Next.js · React · NestJS · MongoDB · Vercel
+- **Outcome:** Sub-second page loads via SSR; scalable data layer supporting real-time community features
+- **What I learned:** Optimizing SSR performance and managing real-time data at scale with MongoDB
+
+🔗 [Repository](https://github.com/Mbiydzenyuy3/contact-manager) · 🌐 [Live Demo](https://contact-manager-app-kith.vercel.app/)
+
+---
+
+### 3. 🌐 Full-Stack Portfolio Projects Collection
+> **Problem:** Developers struggle to demonstrate breadth and depth in a single view.
+
+- **Solution:** A curated collection of production-grade and experimental projects spanning backend APIs, frontend UIs, DevOps setups, and database design
+- **Stack:** TypeScript · React · NestJS · PostgreSQL · Prisma · AWS · Tailwind CSS
+- **Outcome:** 1,094+ contributions in the last year; 77+ repositories demonstrating consistent output
+- **What I learned:** The value of shipping consistently, iterating publicly, and treating every project as a product
+
+🔗 [See All Repositories](https://github.com/Mbiydzenyuy3?tab=repositories)
+
+---
+
+## 🛠️ Tech Stack
+
+**Core Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 💼 What I'm Looking For
+
+I'm actively seeking **remote-first or relocation-friendly** opportunities as:
+
+- ✅ **Full-Stack Engineer** (TypeScript · NestJS · React / Next.js)
+- ✅ **Backend Engineer** (Node.js · NestJS · REST/GraphQL APIs)
+- ✅ **Frontend Engineer** (React · Next.js · Tailwind)
+
+I thrive in **early-stage startups** and **product teams** that value ownership, clean architecture, and shipping fast without cutting corners.
+
+---
+
+## 📬 Get In Touch
+
+| Channel | Link |
+|---------|------|
+| 📧 Email | [mbiydzenyuyeileen@gmail.com](mailto:mbiydzenyuyeileen@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/eileen-leila](https://www.linkedin.com/in/eileen-leila/) |
+| ✍️ Medium | [@mbiydzenuyeileen](https://medium.com/@mbiydzenuyeileen) |
+| 🌍 Location | Cameroon · Remote / Relocation Friendly |
+
+---
+
+<p align="center">⭐ <i>If you find any of my projects useful, feel free to star them — it helps more than you know!</i></p>
