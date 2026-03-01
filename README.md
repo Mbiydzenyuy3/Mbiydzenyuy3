@@ -16,8 +16,8 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 
 - 🏗️ I architect backends with **NestJS**, design APIs with REST & GraphQL, and ship clean frontends with **React / Next.js**
 - ☁️ Cloud-native mindset: I deploy and scale with **AWS, Docker, Kubernetes, and GitHub Actions CI/CD**
-- 🧠 I think in systems, designing apps that scale from **1 to 100,000 users** without breaking
-- 🎯 Currently seeking roles as **Full-Stack Engineer** or **Frontend Engineer (Node/NestJS)** at product-focused startups
+- 🧠 I think in systems — designing apps that scale from **1 to 100,000 users** without breaking
+- 🎯 Currently seeking roles as **Full-Stack Engineer** or **Backend Engineer (Node/NestJS)** at product-focused startups
 - 🌍 Remote-ready and open to relocation
 
 ---
@@ -48,15 +48,15 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 
 ---
 
-### 3. 🌐 Full-Stack Portfolio Projects Collection
-> **Problem:** Developers struggle to demonstrate breadth and depth in a single view.
+### 3. 📅 BookEasy — Full-Stack Appointment Booking System
+> **Problem:** Back-and-forth scheduling and double-bookings reduce service provider efficiency.
 
-- **Solution:** A curated collection of production-grade and experimental projects spanning backend APIs, frontend UIs, DevOps setups, and database design
-- **Stack:** TypeScript · React · NestJS · PostgreSQL · Prisma · AWS · Tailwind CSS
-- **Outcome:** 1,094+ contributions in the last year; 77+ repositories demonstrating consistent output
-- **What I learned:** The value of shipping consistently, iterating publicly, and treating every project as a product
+- **Solution:** Automated booking engine with real-time conflict detection and instant UI updates
+- **Stack:** Node.js · Express · React · PostgreSQL · Redis · Socket.IO
+- **Outcome:** 381 deployments; handles concurrent booking attempts with DB-level transactions; sub-second availability updates
+- **What I learned:** Managing complex state synchronization across distributed layers (DB, Cache, WebSockets)
 
-🔗 [See All Repositories](https://github.com/Mbiydzenyuy3?tab=repositories)
+🔗 [View Repository](https://github.com/Mbiydzenyuy3/Appointment-Booking-API) · 🌐 [Live Demo](https://appointment-booking-api-omega.vercel.app/)
 
 ---
 
@@ -106,7 +106,7 @@ I'm actively seeking **remote-first or relocation-friendly** opportunities as:
 - ✅ **Backend Engineer** (Node.js · NestJS · REST/GraphQL APIs)
 - ✅ **Frontend Engineer** (React · Next.js · Tailwind)
 
-I thrive in **early-stage startups** and **product teams** that value ownership, clean architecture, and shipping fast.
+I thrive in **early-stage startups** and **product teams** that value ownership, clean architecture, and shipping fast without cutting corners.
 
 ---
 
