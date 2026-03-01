@@ -16,8 +16,8 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 
 - 🏗️ I architect backends with **NestJS**, design APIs with REST & GraphQL, and ship clean frontends with **React / Next.js**
 - ☁️ Cloud-native mindset: I deploy and scale with **AWS, Docker, Kubernetes, and GitHub Actions CI/CD**
-- 🧠 I think in systems — designing apps that scale from **1 to 100,000 users** without breaking
-- 🎯 Currently seeking roles as **Full-Stack Engineer** or **Backend Engineer (Node/NestJS)** at product-focused startups
+- 🧠 I think in systems, designing apps that scale from **1 to 100,000 users** without breaking
+- 🎯 Currently seeking roles as **Full-Stack Engineer** or **Frontend Engineer (Node/NestJS)** at product-focused startups
 - 🌍 Remote-ready and open to relocation
 
 ---
@@ -106,7 +106,7 @@ I'm actively seeking **remote-first or relocation-friendly** opportunities as:
 - ✅ **Backend Engineer** (Node.js · NestJS · REST/GraphQL APIs)
 - ✅ **Frontend Engineer** (React · Next.js · Tailwind)
 
-I thrive in **early-stage startups** and **product teams** that value ownership, clean architecture, and shipping fast without cutting corners.
+I thrive in **early-stage startups** and **product teams** that value ownership, clean architecture, and shipping fast.
 
 ---
 
