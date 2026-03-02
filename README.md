@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Leila (Mbiydzenyuy) 👋</h1>
+<h1 align="center">My name is Leila (Mbiydzenyuy)</h1>
 <h3 align="center">Full-Stack Engineer · TypeScript / NestJS / React · Building scalable products for startups & remote teams</h3>
 
 <p align="center">
@@ -16,27 +16,27 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 
 - 🏗️ I architect backends with **NestJS**, design APIs with REST & GraphQL, and ship clean frontends with **React / Next.js**
 - ☁️ Cloud-native mindset: I deploy and scale with **AWS, Docker, Kubernetes, and GitHub Actions CI/CD**
-- 🧠 I think in systems — designing apps that scale from **1 to 100,000 users** without breaking
+- 🧠 I think in systems, designing apps that scale from **1 to 100,000 users** without breaking
 - 🎯 Currently seeking roles as **Full-Stack Engineer** or **Backend Engineer (Node/NestJS)** at product-focused startups
 - 🌍 Remote-ready and open to relocation
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1. 🛡️ DevGuard — Developer Security & Monitoring Tool
-> **Problem:** Development environments lack real-time security oversight, leaving codebases exposed before deployment.
+### 1. 🛡️ DevGuard: Developer Security (Authentication System)
+> **Problem:** Development environments lack real-time security and inconsistency in auth security implementations, leaving codebases exposed before deployment.
 
-- **Solution:** Built a proactive security tool that monitors, audits, and enforces standards throughout the development lifecycle
-- **Stack:** TypeScript · NestJS · Cloud Native principles · Docker
-- **Outcome:** Catches vulnerabilities before they hit production; reduces manual security review time significantly
+- **Solution:** Built an authentication platform like with reference clerk but free to help developers concerntrate more on developing the actual product that spending a week on implementing authentication.
+- - **Stack:** TypeScript · NestJS · Cloud Native principles · Docker
+- **Outcome:** Fast integration in to any project using our SDK, It takes you 5mints rather than a week to integrate
 - **What I learned:** Designing event-driven architectures and integrating security checks into CI pipelines
 
 🔗 [View Repository](https://github.com/Mbiydzenyuy3/DevGuard)
 
 ---
 
-### 2. 🤝 Kith — Community & Contact Management Platform
+### 2. 🤝 Kith: Community & Contact Management Platform
 > **Problem:** Modern community platforms sacrifice either performance or user experience.
 
 - **Solution:** Full-stack application with SSR for SEO, real-time interaction, and premium UX
@@ -48,7 +48,7 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 
 ---
 
-### 3. 📅 BookEasy — Full-Stack Appointment Booking System
+### 3. 📅 BookEasy: Full-Stack Appointment Booking System
 > **Problem:** Back-and-forth scheduling and double-bookings reduce service provider efficiency.
 
 - **Solution:** Automated booking engine with real-time conflict detection and instant UI updates
@@ -121,4 +121,4 @@ I thrive in **early-stage startups** and **product teams** that value ownership,
 
 ---
 
-<p align="center">⭐ <i>If you find any of my projects useful, feel free to star them — it helps more than you know!</i></p>
+<p align="center">⭐ <i>If you find any of my projects useful, feel free to star them, it helps more than you know!</i></p>
