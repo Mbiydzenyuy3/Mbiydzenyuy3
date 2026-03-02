@@ -48,18 +48,6 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 
 ---
 
-### 3. 📅 BookEasy: Full-Stack Appointment Booking System
-> **Problem:** Back-and-forth scheduling and double-bookings reduce service provider efficiency.
-
-- **Solution:** Automated booking engine with real-time conflict detection and instant UI updates
-- **Stack:** Node.js · Express · React · PostgreSQL · Redis · Socket.IO
-- **Outcome:** 381 deployments; handles concurrent booking attempts with DB-level transactions; sub-second availability updates
-- **What I learned:** Managing complex state synchronization across distributed layers (DB, Cache, WebSockets)
-
-🔗 [View Repository](https://github.com/Mbiydzenyuy3/Appointment-Booking-API) · 🌐 [Live Demo](https://appointment-booking-api-omega.vercel.app/)
-
----
-
 ## 🛠️ Tech Stack
 
 **Core Languages**
