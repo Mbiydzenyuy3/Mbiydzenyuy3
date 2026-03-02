@@ -14,7 +14,7 @@
 
 I'm a **Full-Stack Engineer** based in Cameroon, passionate about building products that are **fast, scalable, and user-centric**.
 
-- 🏗️ I architect backends with **NestJS**, design APIs with REST & GraphQL, and ship clean frontends with **React / Next.js**
+- 🏗️ I architect backends with **NestJS**, design APIs with REST, and ship clean frontends with **React / Next.js**
 - ☁️ Cloud-native mindset: I deploy and scale with **AWS, Docker, Kubernetes, and GitHub Actions CI/CD**
 - 🧠 I think in systems, designing apps that scale from **1 to 100,000 users** without breaking
 - 🎯 Currently seeking roles as **Full-Stack Engineer** or **Backend Engineer (Node/NestJS)** at product-focused startups
@@ -28,7 +28,7 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 > **Problem:** Development environments lack real-time security and inconsistency in auth security implementations, leaving codebases exposed before deployment.
 
 - **Solution:** Built an authentication platform like with reference clerk but free to help developers concerntrate more on developing the actual product that spending a week on implementing authentication.
-- - **Stack:** TypeScript · NestJS · Cloud Native principles · Docker
+- **Stack:** TypeScript · NestJS · Cloud Native principles · Docker
 - **Outcome:** Fast integration in to any project using our SDK, It takes you 5mints rather than a week to integrate
 - **What I learned:** Designing event-driven architectures and integrating security checks into CI pipelines
 
