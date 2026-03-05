@@ -28,7 +28,7 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 > **Problem:** Development environments lack real-time security and inconsistency in auth security implementations, leaving codebases exposed before deployment.
 
 - **Solution:** Built an authentication platform like with reference clerk but free to help developers concerntrate more on developing the actual product that spending a week on implementing authentication.
-- - **Stack:** TypeScript · NestJS · Cloud Native principles · Docker
+- **Stack:** TypeScript · NestJS · Cloud Native principles · Docker
 - **Outcome:** Fast integration in to any project using our SDK, It takes you 5mints rather than a week to integrate
 - **What I learned:** Designing event-driven architectures and integrating security checks into CI pipelines
 
