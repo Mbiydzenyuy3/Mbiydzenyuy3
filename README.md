@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Full-Stack Engineer** based in Cameroon, passionate about building products that are **fast, scalable, and user-centric**.
 
@@ -18,7 +18,7 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 -  Cloud-native mindset: I deploy and scale with **AWS, Docker, Kubernetes, and GitHub Actions CI/CD**
 -  I think in systems, designing apps that scale from **1 to 100,000 users** without breaking
 -  Currently seeking roles as **Full-Stack Engineer** or **Backend Engineer (Node/NestJS)** at product-focused startups
-- 🌍 Remote-ready and open to relocation
+-  Remote-ready and open to relocation
 
 ---
 
