@@ -14,17 +14,17 @@
 
 I'm a **Full-Stack Engineer** based in Cameroon, passionate about building products that are **fast, scalable, and user-centric**.
 
-- 🏗️ I architect backends with **NestJS**, design APIs with REST & GraphQL, and ship clean frontends with **React / Next.js**
-- ☁️ Cloud-native mindset: I deploy and scale with **AWS, Docker, Kubernetes, and GitHub Actions CI/CD**
-- 🧠 I think in systems, designing apps that scale from **1 to 100,000 users** without breaking
-- 🎯 Currently seeking roles as **Full-Stack Engineer** or **Backend Engineer (Node/NestJS)** at product-focused startups
+-  I architect backends with **NestJS**, design APIs with REST & GraphQL, and ship clean frontends with **React / Next.js**
+-  Cloud-native mindset: I deploy and scale with **AWS, Docker, Kubernetes, and GitHub Actions CI/CD**
+-  I think in systems, designing apps that scale from **1 to 100,000 users** without breaking
+-  Currently seeking roles as **Full-Stack Engineer** or **Backend Engineer (Node/NestJS)** at product-focused startups
 - 🌍 Remote-ready and open to relocation
 
 ---
 
 ## Featured Projects
 
-### 1. 🛡️ DevGuard: Developer Security (Authentication System)
+### 1. DevGuard: Developer Security (Authentication System)
 > **Problem:** Development environments lack real-time security and inconsistency in auth security implementations, leaving codebases exposed before deployment.
 
 - **Solution:** Built an authentication platform like with reference clerk but free to help developers concerntrate more on developing the actual product that spending a week on implementing authentication.
@@ -36,13 +36,12 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 
 ---
 
-### 2. 🤝 Kith: Community & Contact Management Platform
-> **Problem:** Modern community platforms sacrifice either performance or user experience.
+### 2.  Kith: Connections & Contact Management Platform
+> **Problem:** User needing a modern platform where their contacts are being organized and also a reminder of how they met their contacts.
 
-- **Solution:** Full-stack application with SSR for SEO, real-time interaction, and premium UX
-- **Stack:** Next.js · React · NestJS · MongoDB · Vercel
-- **Outcome:** Sub-second page loads via SSR; scalable data layer supporting real-time community features
-- **What I learned:** Optimizing SSR performance and managing real-time data at scale with MongoDB
+- **Solution:** KITH provides it users with a solution platform that helps user add and store their contacts with ease and reminds them on how they met their connections or contacts and why they matter using an additional information parser field.
+- **Stack:** Next.js · React · Supabase · TailwindCss · Vercel
+- **What I learned:** Managing real-time data at scale with Supabase
 
 🔗 [Repository](https://github.com/Mbiydzenyuy3/contact-manager) · 🌐 [Live Demo](https://contact-manager-app-kith.vercel.app/)
 
@@ -86,26 +85,26 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 
 ---
 
-## 💼 What I'm Looking For
+##  What I'm Looking For
 
 I'm actively seeking **remote-first or relocation-friendly** opportunities as:
 
-- ✅ **Full-Stack Engineer** (TypeScript · NestJS · React / Next.js)
-- ✅ **Backend Engineer** (Node.js · NestJS · REST/GraphQL APIs)
-- ✅ **Frontend Engineer** (React · Next.js · Tailwind)
+-  **Full-Stack Engineer** (TypeScript · NestJS · React / Next.js)
+-  **Backend Engineer** (Node.js · NestJS · REST/GraphQL APIs)
+-  **Frontend Engineer** (React · Next.js · Tailwind)
 
 I thrive in **early-stage startups** and **product teams** that value ownership, clean architecture, and shipping fast without cutting corners.
 
 ---
 
-## 📬 Get In Touch
+##  Get In Touch
 
 | Channel | Link |
 |---------|------|
-| 📧 Email | [mbiydzenyuyeileen@gmail.com](mailto:mbiydzenyuyeileen@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/eileen-leila](https://www.linkedin.com/in/eileen-leila/) |
-| ✍️ Medium | [@mbiydzenuyeileen](https://medium.com/@mbiydzenuyeileen) |
-| 🌍 Location | Cameroon · Remote / Relocation Friendly |
+|  Email | [mbiydzenyuyeileen@gmail.com](mailto:mbiydzenyuyeileen@gmail.com) |
+|  LinkedIn | [linkedin.com/in/eileen-leila](https://www.linkedin.com/in/eileen-leila/) |
+|  Medium | [@mbiydzenuyeileen](https://medium.com/@mbiydzenuyeileen) |
+|  Location | Cameroon · Remote / Relocation Friendly |
 
 ---
 
