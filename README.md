@@ -47,7 +47,7 @@ I'm a **Full-Stack Engineer** based in Cameroon, passionate about building produ
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Core Languages**
 
