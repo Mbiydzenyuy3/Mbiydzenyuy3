@@ -1,5 +1,5 @@
 <h1 align="center">My name is Leila (Mbiydzenyuy)</h1>
-<h3 align="center">Full-Stack Engineer · TypeScript / NestJS / React · Building scalable products for startups & remote teams</h3>
+<h3 align="center">Full-Stack Developer · TypeScript / NestJS / React · Building scalable products for startups & remote teams</h3>
 
 <p align="center">
   <a href="mailto:mbiydzenyuyeileen@gmail.com"><img src="https://img.shields.io/badge/Email-mbiydzenyuyeileen%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
