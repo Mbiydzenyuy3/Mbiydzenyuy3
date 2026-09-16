@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Engineer** based in Cameroon, passionate about building products that are **fast, scalable, and user-centric**.
+I'm a **Full-Stack Developer** based in Cameroon, passionate about building products that are **fast, scalable, and user-centric**.
 
 -  I architect backends with **NestJS**, design APIs with REST & GraphQL, and ship clean frontends with **React / Next.js**
 -  Cloud-native mindset: I deploy and scale with **AWS, Docker, Kubernetes, and GitHub Actions CI/CD**
